@@ -40,14 +40,6 @@ Link til Doc https://www.contentful.com/developers/docs/javascript/tutorials/usi
 npm i contentful -s
 ```
 
-### Contentful
-
-Link til Doc https://www.contentful.com/
-
-```
-npm i contentful -s
-```
-
 ### rich-text-html-renderer
 
 Link til Doc https://www.npmjs.com/package/@contentful/rich-text-html-renderer
